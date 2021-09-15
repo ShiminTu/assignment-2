@@ -78,6 +78,8 @@ See the [grading rubric](./rubric.md) for more details.
 
 We'll be using GitHub for assignment submission again. You can set up your own private repository on GitHub for this assignment using the following link:
 
+https://classroom.github.com/a/ohRVUvKM
+
 The assignment should be added to this GitHub repository before the deadline. You can add files to
 the repository through the browser (github.com) interface or using the command line locally on your machine.
 For more help, see:
